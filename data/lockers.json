@@ -1,1 +1,62 @@
-{}
+{
+  "A1": {
+    "id": "A1",
+    "status": "occupied",
+    "updated_at": "2026-05-18T08:12:04+00:00"
+  },
+  "A2": {
+    "id": "A2",
+    "status": "free",
+    "updated_at": "2026-05-19T17:45:31+00:00"
+  },
+  "A3": {
+    "id": "A3",
+    "status": "occupied",
+    "updated_at": "2026-05-20T07:03:12+00:00"
+  },
+  "A4": {
+    "id": "A4",
+    "status": "out_of_order",
+    "updated_at": "2026-04-28T14:22:09+00:00"
+  },
+  "B1": {
+    "id": "B1",
+    "status": "free",
+    "updated_at": "2026-05-20T09:31:47+00:00"
+  },
+  "B2": {
+    "id": "B2",
+    "status": "occupied",
+    "updated_at": "2026-05-20T11:08:55+00:00"
+  },
+  "B3": {
+    "id": "B3",
+    "status": "free",
+    "updated_at": "2026-05-17T16:40:02+00:00"
+  },
+  "B4": {
+    "id": "B4",
+    "status": "free",
+    "updated_at": "2026-05-20T06:55:18+00:00"
+  },
+  "C1": {
+    "id": "C1",
+    "status": "occupied",
+    "updated_at": "2026-05-19T13:27:36+00:00"
+  },
+  "C2": {
+    "id": "C2",
+    "status": "out_of_order",
+    "updated_at": "2026-03-30T10:14:50+00:00"
+  },
+  "C3": {
+    "id": "C3",
+    "status": "free",
+    "updated_at": "2026-05-20T12:02:41+00:00"
+  },
+  "C4": {
+    "id": "C4",
+    "status": "occupied",
+    "updated_at": "2026-05-20T12:19:08+00:00"
+  }
+}

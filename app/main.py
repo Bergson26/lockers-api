@@ -43,4 +43,5 @@ def stats():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=int(os.getenv("PORT", "5000")))
+    debug = os.getenv("FLASK_DEBUG", "false").lower() == "true"
+    app.run(debug=debug, host="0.0.0.0", port=int(os.getenv("PORT", "5000")))  # nosec B104
